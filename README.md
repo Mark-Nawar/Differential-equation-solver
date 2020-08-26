@@ -12,4 +12,6 @@ bellow is a screen shot from the basic UI
 
 the follwing script is capable to solve three types of DE numerically 
 given for example the following DE y'= xy + x^2  with inital conditions x0 = 0 and y0 = 1. We input the x-variable we need its y-variable this way:
-for this example we will be checking the y fo x-value= 0.1
+for this example we will be checking the y fo x-value= 0.1 then click execute
+
+![e1](https://user-images.githubusercontent.com/62334815/91315018-753a2e00-e7b7-11ea-8d91-5253ae59c93c.PNG)
