@@ -15,3 +15,9 @@ given for example the following DE y'= xy + x^2  with inital conditions x0 = 0 a
 for this example we will be checking the y fo x-value= 0.1 then click execute
 
 ![e1](https://user-images.githubusercontent.com/62334815/91315018-753a2e00-e7b7-11ea-8d91-5253ae59c93c.PNG)
+
+the same thing goes with cases 2 and 3 
+<h2> IMPORTANT NOTES </h2>
+F(x,y) in case 1 is the y' being the subject of the DE <br>
+f(x,y,z) in case 2 is the y'' being the subject of the DE and z being y' and z0 is y' intial comdition.<br>
+Case 3 is solving two DE where Y' is the first and Z' is the second<br>
